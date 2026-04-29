@@ -1,4 +1,4 @@
-# 🏋️ GYM PLUS — Management System
+# LYFTR  — Management System
 
 A full-stack Gym Management System with a modern SaaS-style dark-sidebar dashboard.
 
